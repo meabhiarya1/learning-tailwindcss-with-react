@@ -18,7 +18,7 @@ function App() {
           </div>
         </div>
 
-        <div class="p-6 max-w-lg mx-auto bg-white rounded-lg shadow-lg space-x-4 my-3">
+        <div class="p-6 max-w-lg mx-auto bg-white rounded-lg shadow-lg space-x-4 mt-3">
           <div>
             <img
               class="h-50 w-60 text-center"
@@ -30,6 +30,11 @@ function App() {
             Tailwind CSS
             <p class="text-slate-500 text-center text-sm">Abhishek kumar</p>
           </div>
+        </div>
+        <button class="bg-sky-500 text-white p-3 rounded-lg mt-3 hover:bg-white hover:text-black">Buy Now</button>
+
+        <div class="text-center text-white my-2 text-xl">
+          <p class="text-white-400 sm:text-green-500 md:text-red-500">Lorem ipsum dolor sit</p>
         </div>
       </div>
     </>
