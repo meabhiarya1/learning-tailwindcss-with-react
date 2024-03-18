@@ -83,7 +83,7 @@ const Page = () => {
         {/* student section ended here */}
 
         {/* our product section */}
-        <div class="h-20 w-full flex flex-col items-center mt-10">
+        <div class="h-10 w-full flex flex-col items-center mt-10">
           <p class="text-indigo-800 font-semibold items-center text-center text-2xl md:text-3xl">
             Our Products
           </p>
